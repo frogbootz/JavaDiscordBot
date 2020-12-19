@@ -21,7 +21,7 @@ public class Main {
         jdaBuilder.addEventListeners(joe);
         chips chips = new chips();
         jdaBuilder.addEventListeners(chips);
-        jdaBuilder.setActivity(Activity.playing("with my clit 💧🍆"));
+        jdaBuilder.setActivity(Activity.playing("Runescape"));
         try {
             jda = jdaBuilder.build();
 
